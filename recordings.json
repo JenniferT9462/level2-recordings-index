@@ -1,14 +1,26 @@
 [
   {
-    "id": "1mPZvs7rsMud4ZTVFayperAPYYk9aCtzD",
+    "id": "1rKu1DlvR9cAR5B4GqckypRTzDsIxJlEc",
+    "level": "Level 2",
+    "topic": "Level 2 2026-10-27",
+    "start": "2026-10-27T23:30:00Z",
+    "duration": "",
+    "link": "https://drive.google.com/file/d/1rKu1DlvR9cAR5B4GqckypRTzDsIxJlEc/view",
+    "file": "Level 2 2026-10-27.mp4",
+    "driveFileId": "1rKu1DlvR9cAR5B4GqckypRTzDsIxJlEc",
+    "slides": "https://docs.google.com/presentation/d/1zNF-UIlckGgE6-UJaluYuAoTcjQ14yMqEWcf0-X0R8M/edit?usp=sharing",
+    "notes": ""
+  },
+  {
+    "id": "1fiPjeNbdfYxGGtT1emaDgzhRXC7eQC59",
     "level": "Level 2",
     "topic": "Level 2 2026-10-26",
     "start": "2026-10-26T23:31:12Z",
     "duration": "",
-    "link": "https://drive.google.com/file/d/1mPZvs7rsMud4ZTVFayperAPYYk9aCtzD/view",
-    "file": "Level 2 2026-10-26.mp4",
-    "driveFileId": "1mPZvs7rsMud4ZTVFayperAPYYk9aCtzD",
-    "slides": "",
+    "link": "https://drive.google.com/file/d/1fiPjeNbdfYxGGtT1emaDgzhRXC7eQC59/view",
+    "file": "Level 2 2026-10-26-26.mp4",
+    "driveFileId": "1fiPjeNbdfYxGGtT1emaDgzhRXC7eQC59",
+    "slides": "https://docs.google.com/presentation/d/1AymPS2483MlLBT588X5UzGyEtdK1sp4RPhayn2iTuc0/edit?usp=sharing",
     "notes": ""
   },
   {
